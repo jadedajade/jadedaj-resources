@@ -1,0 +1,29 @@
+[
+    {
+        "name" : "Dog",
+        "source" : "Images/PostImages/Dawg.png",
+        "x" : "1400px",
+        "y" : "-100px",
+        "height" : "350px",
+        "width" : "auto",
+        "description" : "cool and good description."
+    },
+    {
+        "name" : "Automachine",
+        "source" : "Images/PostImages/Automachine.png",
+        "x" : "1500px",
+        "y" : "-500px",
+        "height" : "350px",
+        "width" : "auto",
+        "description" : "cool and good description."
+    },
+    {
+        "name" : "Claura",
+        "source" : "Images/PostImages/Claura.png",
+        "x" : "1200px",
+        "y" : "300px",
+        "height" : "350px",
+        "width" : "auto",
+		"description" : "cool and good description."
+    }
+]
