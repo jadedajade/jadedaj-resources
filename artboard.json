@@ -18,6 +18,15 @@
         "description" : "cool and good description."
     },
     {
+        "name" : "Noelle",
+        "source" : "Images\PostImages\Noelle.png",
+        "x" : "1500px",
+        "y" : "0px",
+        "height" : "350px",
+        "width" : "auto",
+        "description" : "cool and good description."
+    },
+    {
         "name" : "Claura",
         "source" : "Images/PostImages/Claura.png",
         "x" : "1200px",
