@@ -19,7 +19,7 @@
     },
     {
         "name" : "Noelle",
-        "source" : "Images\PostImages\Noelle.png",
+        "source" : "Images/PostImages/Noelle.png",
         "x" : "1500px",
         "y" : "0px",
         "height" : "350px",
