@@ -26,6 +26,15 @@
         "width" : "auto",
         "description" : "cool and good description."
     },
+	{
+        "name" : "View Of Her",
+        "source" : "Images/PostImages/viewofher.png",
+        "x" : "1500px",
+        "y" : "0px",
+        "height" : "350px",
+        "width" : "auto",
+        "description" : "cool and good description."
+    },
     {
         "name" : "Claura",
         "source" : "Images/PostImages/Claura.png",
